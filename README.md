@@ -1,10 +1,10 @@
 ### Olá, me chamo Victor Hugo
 
- • Grande entusiasta de tecnologia
- • A cada dia me encantando mais por Front End
+ • Grande entusiasta de tecnologia <br>
+ • A cada dia me encantando mais por Front End <br>
+ • Me aprofundando em React, TypeScript e Next.js
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhsds&show_icons=true&theme=dracula)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhsds&layout=compact&theme=dracula)
 
 <div style="display: inline_block"><br>
