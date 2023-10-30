@@ -1,5 +1,10 @@
 ### Olá, me chamo Victor Hugo
+
+ • Grande entusiasta de tecnologia
+ • A cada dia me encantando mais por Front End
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhsds&show_icons=true&theme=dracula)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhsds&layout=compact&theme=dracula)
 
 <div style="display: inline_block"><br>
