@@ -4,8 +4,8 @@
  • A cada dia me encantando mais por Front End <br>
  • Me aprofundando em React, TypeScript e Next.js
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorhsds&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhsds&layout=compact&theme=dracula)
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=victorhsds&show_icons=true&theme=dracula"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhsds&layout=compact&theme=dracula"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,6 +14,10 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Rafa-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+   <img align="center" alt="Rafa-ex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+   <img align="center" alt="Rafa-ex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+          
   </div> 
 
   ##
