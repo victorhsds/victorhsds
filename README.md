@@ -2,7 +2,7 @@
 
  • Grande entusiasta de tecnologia <br>
  • A cada dia me encantando mais por Front End <br>
- • Me aprofundando em React, TypeScript e Next.js
+ • Me aprofundando em React, TypeScript, Next.js, Node.js e GraphQL
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=victorhsds&show_icons=true&theme=dracula"/>
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhsds&layout=compact&theme=dracula"/>
