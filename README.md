@@ -11,7 +11,7 @@
           
   </div> 
 
-<img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/7aae7535-03be-4dd3-8868-00cc4f39ff6d" />
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/7aae7535-03be-4dd3-8868-00cc4f39ff6d" />
 
 
   <div> 
