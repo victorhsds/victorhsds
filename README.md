@@ -1,4 +1,4 @@
-### Olá, me chamo Victor Hugo
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/333e1551-7e8b-4e0a-a586-0ce77bd2bf33" />### Olá, me chamo Victor Hugo
 
  • Grande entusiasta de tecnologia <br>
  • A cada dia me encantando mais por Front End <br>
@@ -11,7 +11,8 @@
           
   </div> 
 
-  ##
+  <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0f9369e8-d78e-4b57-9483-00abc2f5212a" />
+
 
   <div> 
   
